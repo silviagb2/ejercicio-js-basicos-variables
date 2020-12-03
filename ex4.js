@@ -16,7 +16,13 @@
  * 
  */
 
-let numeroGatos = 10;
+let numeroGatos = 10 ;
+let pareja = "Brad ";
+let pais = "Bali ";
+let trabajo = "jubilación ";
 
 let futuro = "tendréis " + numeroGatos + " gatos";
 console.log(futuro);
+
+let adivinadora = "Tú estarás en " + pais + "trabajando de " + trabajo + "y tu pareja será " + pareja + "y tendréis " + numeroGatos + "gatos"
+console.log(adivinadora);
